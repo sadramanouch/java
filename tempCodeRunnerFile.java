@@ -1,0 +1,1 @@
+num.charAt(i) < '0' || num.charAt(i) > '
